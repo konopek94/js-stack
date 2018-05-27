@@ -14,10 +14,6 @@
   "rules": {
     "semi": [2, "never"],
     "no-unexpected-multiline": 2,
-    "compat/compat": 2,
-    "no-trailing-spaces": [1, {
-      "ignore-comments": false
-    }]
-
+    "compat/compat": 2
   }
 }
